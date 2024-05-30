@@ -1,1 +1,1 @@
-# exercício do curso desenvolvedor fullstack JAVA onde criamos uma lista de classes de carros que extendem a interface abstrata Carros, depois usamos o generic no método que imprime a lista, para restringir que vamos receber como argumento apenas as classes que extendem a interface Carros.
+# Exercício do curso desenvolvedor fullstack JAVA onde criamos uma lista de classes de carros que estendem a interface abstrata Carros, depois usamos o generic no método que imprime a lista, para restringir que vamos receber como argumento apenas as classes que estendem a interface Carros.
